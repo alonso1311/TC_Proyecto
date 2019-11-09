@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Teoria_Computacion_Proyecto.dir/main.cpp.o  -o Teoria_Computacion_Proyecto 

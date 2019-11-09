@@ -1,0 +1,3 @@
+/home/alonso/CLionProjects/POO_II_Second/Teoria_Computacion_Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alonso/CLionProjects/POO_II_Second/Teoria_Computacion_Proyecto/cmake-build-debug/CMakeFiles/Teoria_Computacion_Proyecto.dir
+/home/alonso/CLionProjects/POO_II_Second/Teoria_Computacion_Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir

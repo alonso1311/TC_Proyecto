@@ -1,1 +1,1 @@
-# TC_Proyecto
+# Teoria_Computacion_Proyecto
