@@ -7,6 +7,7 @@
 using namespace std;
 
 vector<User> users;
+int contador_errores = 0;
 
 void print() {
     for(auto i : users) {
@@ -55,7 +56,9 @@ void Sign_in() {
         Ping_Pong(temp_username);
 
     else {
+        contador_errores++;
         cerr << "Usuario y/o contrasena incorrecta\n";
+        cout << "N° errores: " << contador_errores;
         Sign_in();
     }
 }
